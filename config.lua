@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '218693729:AAFbBoY6lBIZMbzebZ9t-g5oxu-8nriqJW0', --token
+	bot_api_key = '218693729:AAH0m6ck_asiWcCWbhk1-BPfipyeB9P8GE4', --token
 	bot_api_key = '',
 	google_api_key = '',
 	google_cse_key = '',
